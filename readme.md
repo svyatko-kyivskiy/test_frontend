@@ -1,12 +1,12 @@
-Developer Skills Assessment
+# Developer Skills Assessment
 
 You will need to have Node installed on your machine.
 After it is installed you will need to clone the repository.
 
-# To install the package files
+To install the package files
 Run > npm install
 
-# To start the http server
+To start the http server
 Run > npm start
 
 Your task:
