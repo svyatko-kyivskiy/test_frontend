@@ -1,7 +1,7 @@
 ## Developer Skills Assessment
 
 You will need to have Node installed on your machine.
-After it is installed you will need to clone the repository.
+After it is installed you will need to clone this repository.
 
 To install the package files
 Run 
@@ -10,6 +10,9 @@ Run
 To start the http server
 Run 
 ```>npm start```
+
+To view the application please open the following url
+http://localhost:8000/index.html
 
 ### Your task
 Using the provided skeleton AngularJS application, please create a heatmap using handsontable and highcharts.
