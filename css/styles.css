@@ -1,3 +1,47 @@
 .widget {
     border: 1px solid #f7f7f7;
 }
+
+.ht_clone_top th {
+    background-color: transparent;
+}
+
+.ht_clone_top .htCore thead tr th {
+    border: none;
+}
+
+.handsontable tbody>tr>td:first-child {
+    border: none;
+}
+
+
+.custom-header-column-wrapper{
+    display: flex;
+    height: 120px;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: center;
+}
+.custom-header-column-wrapper .custom-caption{
+    white-space: normal;
+    margin-top: 35px;
+    width: 100%;
+    transform: rotate(-45deg);
+}
+.custom-header-column-wrapper .custom-tick{
+    margin-right: 50px;
+}
+
+
+.custom-header-row-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100px;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.custom-header-row-wrapper .custom-caption{
+    white-space: normal;
+    max-width: 80%;
+}

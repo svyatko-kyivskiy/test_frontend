@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="defe4f99-b41d-4432-a022-64829aee7f69" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/handsontable/handsontable-widget.html" beforeDir="false" afterPath="$PROJECT_DIR$/widgets/handsontable/handsontable-widget.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/handsontable/handsontable-widget.js" beforeDir="false" afterPath="$PROJECT_DIR$/widgets/handsontable/handsontable-widget.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/highcharts/highcharts-widget.html" beforeDir="false" afterPath="$PROJECT_DIR$/widgets/highcharts/highcharts-widget.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/highcharts/highcharts-widget.js" beforeDir="false" afterPath="$PROJECT_DIR$/widgets/highcharts/highcharts-widget.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jsvq8ozCTb8hEaov332FofxCFH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/widgets/highcharts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/widgets/highcharts" />
+      <recent name="$PROJECT_DIR$/widgets/handsontable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="handsontable-widget.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/widgets/handsontable/handsontable-widget.js" working-dir="$PROJECT_DIR$/widgets/handsontable">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.handsontable-widget.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="defe4f99-b41d-4432-a022-64829aee7f69" name="Default Changelist" comment="" />
+      <created>1604605802816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604605802816</updated>
+      <workItem from="1604605804231" duration="27016000" />
+      <workItem from="1604850584763" duration="4711000" />
+      <workItem from="1604916392191" duration="133000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="631" y="40" key="#HTML" timestamp="1604692105476">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="631" y="40" key="#HTML/0.0.1680.1050@0.0.1680.1050" timestamp="1604692105476" />
+    <state x="557" y="241" key="#JavaScript" timestamp="1604642964152">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="557" y="241" key="#JavaScript/0.0.1680.1050@0.0.1680.1050" timestamp="1604642964152" />
+    <state width="1659" height="364" key="GridCell.Tab.0.bottom" timestamp="1604814025535">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="364" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604814025535" />
+    <state width="1659" height="364" key="GridCell.Tab.0.center" timestamp="1604814025529">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="364" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604814025529" />
+    <state width="1659" height="364" key="GridCell.Tab.0.left" timestamp="1604814025527">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="364" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604814025527" />
+    <state width="1659" height="364" key="GridCell.Tab.0.right" timestamp="1604814025532">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="364" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604814025532" />
+    <state width="1659" height="364" key="GridCell.Tab.1.bottom" timestamp="1604814025543">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604814025543" />
+    <state width="1659" height="364" key="GridCell.Tab.1.center" timestamp="1604814025538">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604814025538" />
+    <state width="1659" height="364" key="GridCell.Tab.1.left" timestamp="1604814025536">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604814025536" />
+    <state width="1659" height="364" key="GridCell.Tab.1.right" timestamp="1604814025539">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604814025539" />
+    <state width="1659" height="364" key="GridCell.Tab.2.bottom" timestamp="1604814025550">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="364" key="GridCell.Tab.2.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604814025550" />
+    <state width="1659" height="364" key="GridCell.Tab.2.center" timestamp="1604814025548">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="364" key="GridCell.Tab.2.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604814025548" />
+    <state width="1659" height="364" key="GridCell.Tab.2.left" timestamp="1604814025545">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="364" key="GridCell.Tab.2.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604814025545" />
+    <state width="1659" height="364" key="GridCell.Tab.2.right" timestamp="1604814025549">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="364" key="GridCell.Tab.2.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604814025549" />
+    <state width="1659" height="364" key="GridCell.Tab.3.bottom" timestamp="1604814025554">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="364" key="GridCell.Tab.3.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604814025554" />
+    <state width="1659" height="364" key="GridCell.Tab.3.center" timestamp="1604814025552">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="364" key="GridCell.Tab.3.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604814025552" />
+    <state width="1659" height="364" key="GridCell.Tab.3.left" timestamp="1604814025550">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="364" key="GridCell.Tab.3.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604814025550" />
+    <state width="1659" height="364" key="GridCell.Tab.3.right" timestamp="1604814025553">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="364" key="GridCell.Tab.3.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604814025553" />
+    <state x="572" y="234" key="RollbackChangesDialog" timestamp="1604691765356">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="572" y="234" key="RollbackChangesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1604691765356" />
+    <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604769095418">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1604769095418" />
+    <state x="538" y="280" width="604" height="490" key="find.popup" timestamp="1604781115928">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="538" y="280" width="604" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604781115928" />
+  </component>
+</project>
